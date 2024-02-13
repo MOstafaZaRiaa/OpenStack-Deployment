@@ -46,9 +46,9 @@ Access the OpenStack dashboard (Horizon) via a web browser using the IP address 
 
 URL format: `http://<br-ex_IP>/dashboard`
 
-![dashboard](https://github.com/abdelrahman303/OpenStack-Deployment/assets/60901149/94d41415-7c84-4392-ab1e-c161859d31b8)
+![dashboard](assets/304160615-94d41415-7c84-4392-ab1e-c161859d31b8.png)
 
 
 Log in with the provided credentials and verify that all OpenStack services are running and accessible.
 
-![service](https://github.com/abdelrahman303/OpenStack-Deployment/assets/60901149/7647eb79-ae8a-488a-af92-b9ca4a4d0946)
+![service](assets/304160909-7647eb79-ae8a-488a-af92-b9ca4a4d0946.png)
