@@ -7,7 +7,7 @@ This project aims to deploy OpenStack using the RDO (Red Hat Distribution OpenSt
 1. **Image**: [Download CentOS 8 Image](https://dakhli-permenant.oss.eu-west-0.prod-cloud-ocb.orange-business.com/ITI_Course/CentOS-Stream-8-x86_64-20230112-dvd1.iso)
 2. **Enable Virtualization** 
 
-![image](https://github.com/abdelrahman303/OpenStack-Deployment/assets/60901149/f42cf3e8-f4f7-4d1b-90aa-4dd1c30b06d4)
+![image](assets/304158784-f42cf3e8-f4f7-4d1b-90aa-4dd1c30b06d4.png)
 
 3. **Network Configuration**: 
    - Ensure two network interface cards (NICs) are available and configured manually with static IPs. Disable IPv6.
